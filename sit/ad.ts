@@ -1,0 +1,1 @@
+removeChild(queueElement: QueueElement): void;
